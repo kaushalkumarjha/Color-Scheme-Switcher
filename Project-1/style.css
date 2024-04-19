@@ -1,0 +1,46 @@
+body
+{
+    margin:0;
+    padding:0;
+    background: #34495e;
+   
+}
+.button
+{
+    display: inline-block;
+    width: 200px;
+    height:100px;
+    padding: 10px;
+    margin:10px;
+    background-color: beige;
+    align-items:center;
+    margin-left: 100px;
+    border :2px solid black;
+    position:relative;
+    cursor: pointer;
+
+}
+#grey
+{
+    background-color: grey;
+}
+#yellow
+{
+    background-color: yellow;
+}
+#red
+{
+    background-color:red;
+}
+#green
+{
+    background-color: greenyellow;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+h2{
+    color:antiquewhite;
+    text-align: center;
+}
